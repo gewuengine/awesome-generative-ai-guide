@@ -95,6 +95,7 @@ Newest first:
 - [ICLR 2024 Paper Summaries](https://areganti.notion.site/06f0d4fe46a94d62bff2ae001cfec22c?v=d501ca62e4b745768385d698f173ae14)
 - [LLM Lingo](resources/llm_lingo): a 6-part glossary of common LLM terms.
 - [Monthly Best GenAI Papers](research_updates/): monthly paper lists, latest list June 2026 (see [Understand AI](journeys/understand.md#understand-301-the-frontier-feed)).
+- [PDFnoted](https://pdfnoted.com) — Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU)
 
 ---
 
